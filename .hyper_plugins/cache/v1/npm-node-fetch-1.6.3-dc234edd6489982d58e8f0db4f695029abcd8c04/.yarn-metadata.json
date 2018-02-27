@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/node-fetch/-/node-fetch-1.6.3.tgz#dc234edd6489982d58e8f0db4f695029abcd8c04",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/node-fetch/-/node-fetch-1.6.3.tgz",
+    "hash": "dc234edd6489982d58e8f0db4f695029abcd8c04",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "dc234edd6489982d58e8f0db4f695029abcd8c04"
+}

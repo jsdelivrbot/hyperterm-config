@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.17.tgz#e9ec5f9498b9ec910e7ae3ac626a805c4d09ecac",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.17.tgz",
+    "hash": "e9ec5f9498b9ec910e7ae3ac626a805c4d09ecac",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e9ec5f9498b9ec910e7ae3ac626a805c4d09ecac"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-blink/-/hyper-blink-1.1.2.tgz#f804c9797a7c6ed53c02aa65b8487d19761fc72a",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-blink/-/hyper-blink-1.1.2.tgz",
+    "hash": "f804c9797a7c6ed53c02aa65b8487d19761fc72a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f804c9797a7c6ed53c02aa65b8487d19761fc72a"
+}

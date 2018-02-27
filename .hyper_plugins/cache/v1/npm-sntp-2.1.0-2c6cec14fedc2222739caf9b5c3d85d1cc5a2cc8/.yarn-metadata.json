@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/sntp/-/sntp-2.1.0.tgz#2c6cec14fedc2222739caf9b5c3d85d1cc5a2cc8",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/sntp/-/sntp-2.1.0.tgz",
+    "hash": "2c6cec14fedc2222739caf9b5c3d85d1cc5a2cc8",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2c6cec14fedc2222739caf9b5c3d85d1cc5a2cc8"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/p-is-promise/-/p-is-promise-1.1.0.tgz#9c9456989e9f6588017b0434d56097675c3da05e",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/p-is-promise/-/p-is-promise-1.1.0.tgz",
+    "hash": "9c9456989e9f6588017b0434d56097675c3da05e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9c9456989e9f6588017b0434d56097675c3da05e"
+}

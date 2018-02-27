@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/fbjs/-/fbjs-0.8.16.tgz#5e67432f550dc41b572bf55847b8aca64e5337db",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/fbjs/-/fbjs-0.8.16.tgz",
+    "hash": "5e67432f550dc41b572bf55847b8aca64e5337db",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5e67432f550dc41b572bf55847b8aca64e5337db"
+}

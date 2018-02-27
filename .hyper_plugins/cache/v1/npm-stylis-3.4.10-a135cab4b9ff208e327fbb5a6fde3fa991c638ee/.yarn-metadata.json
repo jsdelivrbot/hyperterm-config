@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/stylis/-/stylis-3.4.10.tgz#a135cab4b9ff208e327fbb5a6fde3fa991c638ee",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/stylis/-/stylis-3.4.10.tgz",
+    "hash": "a135cab4b9ff208e327fbb5a6fde3fa991c638ee",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a135cab4b9ff208e327fbb5a6fde3fa991c638ee"
+}

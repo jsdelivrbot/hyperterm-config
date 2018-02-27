@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/is-retry-allowed/-/is-retry-allowed-1.1.0.tgz#11a060568b67339444033d0125a61a20d564fb34",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/is-retry-allowed/-/is-retry-allowed-1.1.0.tgz",
+    "hash": "11a060568b67339444033d0125a61a20d564fb34",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "11a060568b67339444033d0125a61a20d564fb34"
+}

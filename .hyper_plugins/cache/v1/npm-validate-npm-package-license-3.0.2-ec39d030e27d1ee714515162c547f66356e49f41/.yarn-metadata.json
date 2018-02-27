@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/validate-npm-package-license/-/validate-npm-package-license-3.0.2.tgz#ec39d030e27d1ee714515162c547f66356e49f41",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/validate-npm-package-license/-/validate-npm-package-license-3.0.2.tgz",
+    "hash": "ec39d030e27d1ee714515162c547f66356e49f41",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ec39d030e27d1ee714515162c547f66356e49f41"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/crypto-browserify/-/crypto-browserify-3.12.0.tgz#396cf9f3137f03e4b8e532c58f698254e00f80ec",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/crypto-browserify/-/crypto-browserify-3.12.0.tgz",
+    "hash": "396cf9f3137f03e4b8e532c58f698254e00f80ec",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "396cf9f3137f03e4b8e532c58f698254e00f80ec"
+}

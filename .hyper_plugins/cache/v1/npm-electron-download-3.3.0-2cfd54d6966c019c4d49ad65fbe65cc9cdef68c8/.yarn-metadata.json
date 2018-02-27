@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/electron-download/-/electron-download-3.3.0.tgz#2cfd54d6966c019c4d49ad65fbe65cc9cdef68c8",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/electron-download/-/electron-download-3.3.0.tgz",
+    "hash": "2cfd54d6966c019c4d49ad65fbe65cc9cdef68c8",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2cfd54d6966c019c4d49ad65fbe65cc9cdef68c8"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/har-schema/-/har-schema-2.0.0.tgz#a94c2224ebcac04782a0d9035521f24735b7ec92",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/har-schema/-/har-schema-2.0.0.tgz",
+    "hash": "a94c2224ebcac04782a0d9035521f24735b7ec92",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a94c2224ebcac04782a0d9035521f24735b7ec92"
+}

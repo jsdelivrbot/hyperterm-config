@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/dns-socket/-/dns-socket-1.6.3.tgz#5268724fad4aa46ad9c5ca4ffcd16e1de5342aab",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/dns-socket/-/dns-socket-1.6.3.tgz",
+    "hash": "5268724fad4aa46ad9c5ca4ffcd16e1de5342aab",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5268724fad4aa46ad9c5ca4ffcd16e1de5342aab"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/es6-promise/-/es6-promise-4.2.4.tgz#dc4221c2b16518760bd8c39a52d8f356fc00ed29",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/es6-promise/-/es6-promise-4.2.4.tgz",
+    "hash": "dc4221c2b16518760bd8c39a52d8f356fc00ed29",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "dc4221c2b16518760bd8c39a52d8f356fc00ed29"
+}

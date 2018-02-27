@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/git-state/-/git-state-4.0.0.tgz#c6f55127e81a2d9feb405a6ad4f76f97fbb68104",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/git-state/-/git-state-4.0.0.tgz",
+    "hash": "c6f55127e81a2d9feb405a6ad4f76f97fbb68104",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c6f55127e81a2d9feb405a6ad4f76f97fbb68104"
+}

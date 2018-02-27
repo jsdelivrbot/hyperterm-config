@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/aws-sign2/-/aws-sign2-0.7.0.tgz#b46e890934a9591f2d2f6f86d7e6a9f1b3fe76a8",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/aws-sign2/-/aws-sign2-0.7.0.tgz",
+    "hash": "b46e890934a9591f2d2f6f86d7e6a9f1b3fe76a8",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b46e890934a9591f2d2f6f86d7e6a9f1b3fe76a8"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/mousetrap/-/mousetrap-1.6.1.tgz#2a085f5c751294c75e7e81f6ec2545b29cbf42d9",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/mousetrap/-/mousetrap-1.6.1.tgz",
+    "hash": "2a085f5c751294c75e7e81f6ec2545b29cbf42d9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2a085f5c751294c75e7e81f6ec2545b29cbf42d9"
+}

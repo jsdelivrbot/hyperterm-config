@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/simple-git/-/simple-git-1.91.0.tgz#842db6c2ba08328e93c17391a895b850518cd13a",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/simple-git/-/simple-git-1.91.0.tgz",
+    "hash": "842db6c2ba08328e93c17391a895b850518cd13a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "842db6c2ba08328e93c17391a895b850518cd13a"
+}

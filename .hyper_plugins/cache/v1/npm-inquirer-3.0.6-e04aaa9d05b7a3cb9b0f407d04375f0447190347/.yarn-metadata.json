@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/inquirer/-/inquirer-3.0.6.tgz#e04aaa9d05b7a3cb9b0f407d04375f0447190347",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/inquirer/-/inquirer-3.0.6.tgz",
+    "hash": "e04aaa9d05b7a3cb9b0f407d04375f0447190347",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e04aaa9d05b7a3cb9b0f407d04375f0447190347"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/timers-browserify/-/timers-browserify-2.0.6.tgz#241e76927d9ca05f4d959819022f5b3664b64bae",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/timers-browserify/-/timers-browserify-2.0.6.tgz",
+    "hash": "241e76927d9ca05f4d959819022f5b3664b64bae",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "241e76927d9ca05f4d959819022f5b3664b64bae"
+}

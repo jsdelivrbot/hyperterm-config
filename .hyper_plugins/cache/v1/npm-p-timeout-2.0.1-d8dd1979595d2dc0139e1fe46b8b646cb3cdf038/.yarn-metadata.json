@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/p-timeout/-/p-timeout-2.0.1.tgz#d8dd1979595d2dc0139e1fe46b8b646cb3cdf038",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/p-timeout/-/p-timeout-2.0.1.tgz",
+    "hash": "d8dd1979595d2dc0139e1fe46b8b646cb3cdf038",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d8dd1979595d2dc0139e1fe46b8b646cb3cdf038"
+}

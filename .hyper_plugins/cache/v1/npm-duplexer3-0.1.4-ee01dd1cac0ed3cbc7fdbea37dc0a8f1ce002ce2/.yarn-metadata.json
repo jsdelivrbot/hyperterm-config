@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz",
+    "hash": "ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
+}

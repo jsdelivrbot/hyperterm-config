@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/spotify-node-applescript/-/spotify-node-applescript-1.1.1.tgz#f64ac713a807cd2b9333452abc38b0ca89287b03",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/spotify-node-applescript/-/spotify-node-applescript-1.1.1.tgz",
+    "hash": "f64ac713a807cd2b9333452abc38b0ca89287b03",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f64ac713a807cd2b9333452abc38b0ca89287b03"
+}

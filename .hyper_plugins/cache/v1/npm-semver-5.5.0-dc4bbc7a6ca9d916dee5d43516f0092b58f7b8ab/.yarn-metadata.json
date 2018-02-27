@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/semver/-/semver-5.5.0.tgz#dc4bbc7a6ca9d916dee5d43516f0092b58f7b8ab",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/semver/-/semver-5.5.0.tgz",
+    "hash": "dc4bbc7a6ca9d916dee5d43516f0092b58f7b8ab",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "dc4bbc7a6ca9d916dee5d43516f0092b58f7b8ab"
+}

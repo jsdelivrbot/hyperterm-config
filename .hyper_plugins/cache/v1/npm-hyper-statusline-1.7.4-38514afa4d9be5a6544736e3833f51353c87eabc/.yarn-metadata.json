@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-statusline/-/hyper-statusline-1.7.4.tgz#38514afa4d9be5a6544736e3833f51353c87eabc",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-statusline/-/hyper-statusline-1.7.4.tgz",
+    "hash": "38514afa4d9be5a6544736e3833f51353c87eabc",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "38514afa4d9be5a6544736e3833f51353c87eabc"
+}

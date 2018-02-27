@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/pako/-/pako-1.0.6.tgz#0101211baa70c4bca4a0f63f2206e97b7dfaf258",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/pako/-/pako-1.0.6.tgz",
+    "hash": "0101211baa70c4bca4a0f63f2206e97b7dfaf258",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0101211baa70c4bca4a0f63f2206e97b7dfaf258"
+}

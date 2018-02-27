@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/spdx-expression-parse/-/spdx-expression-parse-2.0.2.tgz#e2e0f229c057eac704c5a6d1c687eed66aca034b",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/spdx-expression-parse/-/spdx-expression-parse-2.0.2.tgz",
+    "hash": "e2e0f229c057eac704c5a6d1c687eed66aca034b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e2e0f229c057eac704c5a6d1c687eed66aca034b"
+}

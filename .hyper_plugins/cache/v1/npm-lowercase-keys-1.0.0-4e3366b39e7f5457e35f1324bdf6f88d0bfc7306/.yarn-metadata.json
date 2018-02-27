@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/lowercase-keys/-/lowercase-keys-1.0.0.tgz#4e3366b39e7f5457e35f1324bdf6f88d0bfc7306",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/lowercase-keys/-/lowercase-keys-1.0.0.tgz",
+    "hash": "4e3366b39e7f5457e35f1324bdf6f88d0bfc7306",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4e3366b39e7f5457e35f1324bdf6f88d0bfc7306"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/acorn/-/acorn-5.5.0.tgz#1abb587fbf051f94e3de20e6b26ef910b1828298",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/acorn/-/acorn-5.5.0.tgz",
+    "hash": "1abb587fbf051f94e3de20e6b26ef910b1828298",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1abb587fbf051f94e3de20e6b26ef910b1828298"
+}

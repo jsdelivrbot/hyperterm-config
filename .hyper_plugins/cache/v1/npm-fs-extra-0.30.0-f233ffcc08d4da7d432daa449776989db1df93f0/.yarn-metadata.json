@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/fs-extra/-/fs-extra-0.30.0.tgz#f233ffcc08d4da7d432daa449776989db1df93f0",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/fs-extra/-/fs-extra-0.30.0.tgz",
+    "hash": "f233ffcc08d4da7d432daa449776989db1df93f0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f233ffcc08d4da7d432daa449776989db1df93f0"
+}

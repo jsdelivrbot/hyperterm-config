@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/applescript/-/applescript-1.0.0.tgz#bb87af568cad034a4e48c4bdaf6067a3a2701317",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/applescript/-/applescript-1.0.0.tgz",
+    "hash": "bb87af568cad034a4e48c4bdaf6067a3a2701317",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "bb87af568cad034a4e48c4bdaf6067a3a2701317"
+}

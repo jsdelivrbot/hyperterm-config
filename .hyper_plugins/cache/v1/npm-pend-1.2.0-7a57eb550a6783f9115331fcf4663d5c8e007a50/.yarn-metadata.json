@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/pend/-/pend-1.2.0.tgz#7a57eb550a6783f9115331fcf4663d5c8e007a50",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/pend/-/pend-1.2.0.tgz",
+    "hash": "7a57eb550a6783f9115331fcf4663d5c8e007a50",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7a57eb550a6783f9115331fcf4663d5c8e007a50"
+}

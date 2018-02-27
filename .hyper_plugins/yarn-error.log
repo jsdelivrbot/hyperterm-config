@@ -1,0 +1,42 @@
+Arguments: 
+  /opt/Hyper/hyper /opt/Hyper/resources/bin/yarn-standalone.js install --no-emoji --no-lockfile --cache-folder /home/devaxel/.hyper_plugins/cache
+
+PATH: 
+  undefined
+
+Yarn version: 
+  0.24.6
+
+Node version: 
+  7.9.0
+
+Platform: 
+  linux x64
+
+npm manifest: 
+  {
+    "name": "hyper-plugins",
+    "description": "Auto-generated from `~/.hyper.js`!",
+    "private": true,
+    "version": "0.0.1",
+    "repository": "zeit/hyper",
+    "license": "MIT",
+    "homepage": "https://hyper.is",
+    "dependencies": {
+      "hyperterm-tabs": "latest",
+      "hyper-material-box": "latest",
+      "gitrocket": "latest",
+      "hyper-tabs-enhanced": "latest",
+      "hyper-statusline": "latest",
+      "hyper-dark-scrollbar": "latest"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: EACCES: permission denied, rmdir '/home/devaxel/.hyper_plugins/node_modules/acorn-dynamic-import/node_modules/.bin'

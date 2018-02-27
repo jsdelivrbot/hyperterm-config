@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hawk/-/hawk-6.0.2.tgz#af4d914eb065f9b5ce4d9d11c1cb2126eecc3038",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hawk/-/hawk-6.0.2.tgz",
+    "hash": "af4d914eb065f9b5ce4d9d11c1cb2126eecc3038",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "af4d914eb065f9b5ce4d9d11c1cb2126eecc3038"
+}

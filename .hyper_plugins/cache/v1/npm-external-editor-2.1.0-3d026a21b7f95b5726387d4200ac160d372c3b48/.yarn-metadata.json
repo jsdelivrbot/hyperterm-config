@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/external-editor/-/external-editor-2.1.0.tgz#3d026a21b7f95b5726387d4200ac160d372c3b48",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/external-editor/-/external-editor-2.1.0.tgz",
+    "hash": "3d026a21b7f95b5726387d4200ac160d372c3b48",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3d026a21b7f95b5726387d4200ac160d372c3b48"
+}

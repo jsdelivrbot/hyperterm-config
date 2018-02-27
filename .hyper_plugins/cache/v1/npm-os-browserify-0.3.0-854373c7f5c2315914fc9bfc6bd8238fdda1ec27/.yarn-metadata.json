@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/os-browserify/-/os-browserify-0.3.0.tgz#854373c7f5c2315914fc9bfc6bd8238fdda1ec27",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/os-browserify/-/os-browserify-0.3.0.tgz",
+    "hash": "854373c7f5c2315914fc9bfc6bd8238fdda1ec27",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "854373c7f5c2315914fc9bfc6bd8238fdda1ec27"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/left-pad/-/left-pad-1.2.0.tgz#d30a73c6b8201d8f7d8e7956ba9616087a68e0ee",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/left-pad/-/left-pad-1.2.0.tgz",
+    "hash": "d30a73c6b8201d8f7d8e7956ba9616087a68e0ee",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d30a73c6b8201d8f7d8e7956ba9616087a68e0ee"
+}

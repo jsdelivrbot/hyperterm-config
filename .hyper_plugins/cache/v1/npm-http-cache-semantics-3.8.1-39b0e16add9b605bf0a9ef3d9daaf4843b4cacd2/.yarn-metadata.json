@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-3.8.1.tgz#39b0e16add9b605bf0a9ef3d9daaf4843b4cacd2",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-3.8.1.tgz",
+    "hash": "39b0e16add9b605bf0a9ef3d9daaf4843b4cacd2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "39b0e16add9b605bf0a9ef3d9daaf4843b4cacd2"
+}

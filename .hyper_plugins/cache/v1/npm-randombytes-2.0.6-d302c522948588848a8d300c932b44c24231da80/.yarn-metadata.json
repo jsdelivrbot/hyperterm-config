@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/randombytes/-/randombytes-2.0.6.tgz#d302c522948588848a8d300c932b44c24231da80",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/randombytes/-/randombytes-2.0.6.tgz",
+    "hash": "d302c522948588848a8d300c932b44c24231da80",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d302c522948588848a8d300c932b44c24231da80"
+}

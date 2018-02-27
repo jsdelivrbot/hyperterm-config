@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/speedometer/-/speedometer-0.1.4.tgz#9876dbd2a169d3115402d48e6ea6329c8816a50d",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/speedometer/-/speedometer-0.1.4.tgz",
+    "hash": "9876dbd2a169d3115402d48e6ea6329c8816a50d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9876dbd2a169d3115402d48e6ea6329c8816a50d"
+}

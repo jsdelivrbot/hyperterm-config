@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-tabs-enhanced/-/hyper-tabs-enhanced-0.4.2.tgz#4632de5b274e5d39a55840f3429850112105f526",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-tabs-enhanced/-/hyper-tabs-enhanced-0.4.2.tgz",
+    "hash": "4632de5b274e5d39a55840f3429850112105f526",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4632de5b274e5d39a55840f3429850112105f526"
+}

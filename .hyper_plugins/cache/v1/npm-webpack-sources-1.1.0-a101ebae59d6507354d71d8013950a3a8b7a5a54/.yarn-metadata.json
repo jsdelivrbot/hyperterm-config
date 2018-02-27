@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-1.1.0.tgz#a101ebae59d6507354d71d8013950a3a8b7a5a54",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-1.1.0.tgz",
+    "hash": "a101ebae59d6507354d71d8013950a3a8b7a5a54",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a101ebae59d6507354d71d8013950a3a8b7a5a54"
+}

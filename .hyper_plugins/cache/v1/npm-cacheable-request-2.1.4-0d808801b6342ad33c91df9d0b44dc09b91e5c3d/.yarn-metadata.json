@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/cacheable-request/-/cacheable-request-2.1.4.tgz#0d808801b6342ad33c91df9d0b44dc09b91e5c3d",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/cacheable-request/-/cacheable-request-2.1.4.tgz",
+    "hash": "0d808801b6342ad33c91df9d0b44dc09b91e5c3d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0d808801b6342ad33c91df9d0b44dc09b91e5c3d"
+}

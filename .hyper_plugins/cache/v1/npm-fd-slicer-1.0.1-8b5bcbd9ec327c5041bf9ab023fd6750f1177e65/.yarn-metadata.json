@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/fd-slicer/-/fd-slicer-1.0.1.tgz#8b5bcbd9ec327c5041bf9ab023fd6750f1177e65",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/fd-slicer/-/fd-slicer-1.0.1.tgz",
+    "hash": "8b5bcbd9ec327c5041bf9ab023fd6750f1177e65",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8b5bcbd9ec327c5041bf9ab023fd6750f1177e65"
+}

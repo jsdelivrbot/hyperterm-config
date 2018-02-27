@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.0.tgz#a37d732f4271b4ab1ad070d35508e8290788ffaa",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.0.tgz",
+    "hash": "a37d732f4271b4ab1ad070d35508e8290788ffaa",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a37d732f4271b4ab1ad070d35508e8290788ffaa"
+}

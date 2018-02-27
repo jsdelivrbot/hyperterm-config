@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/gitrocket/-/gitrocket-1.0.5.tgz#679d3bc86ac1c905c7146d69ef3738d3f75b5e77",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/gitrocket/-/gitrocket-1.0.5.tgz",
+    "hash": "679d3bc86ac1c905c7146d69ef3738d3f75b5e77",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "679d3bc86ac1c905c7146d69ef3738d3f75b5e77"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/node-libs-browser/-/node-libs-browser-2.1.0.tgz#5f94263d404f6e44767d726901fff05478d600df",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/node-libs-browser/-/node-libs-browser-2.1.0.tgz",
+    "hash": "5f94263d404f6e44767d726901fff05478d600df",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5f94263d404f6e44767d726901fff05478d600df"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.5.0.tgz#1d73076a6df986cd9344e15e71fcc05a4c9abf12",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.5.0.tgz",
+    "hash": "1d73076a6df986cd9344e15e71fcc05a4c9abf12",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1d73076a6df986cd9344e15e71fcc05a4c9abf12"
+}

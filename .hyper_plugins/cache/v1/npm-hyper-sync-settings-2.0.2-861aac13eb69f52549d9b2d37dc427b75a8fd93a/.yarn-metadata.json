@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-sync-settings/-/hyper-sync-settings-2.0.2.tgz#861aac13eb69f52549d9b2d37dc427b75a8fd93a",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-sync-settings/-/hyper-sync-settings-2.0.2.tgz",
+    "hash": "861aac13eb69f52549d9b2d37dc427b75a8fd93a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "861aac13eb69f52549d9b2d37dc427b75a8fd93a"
+}

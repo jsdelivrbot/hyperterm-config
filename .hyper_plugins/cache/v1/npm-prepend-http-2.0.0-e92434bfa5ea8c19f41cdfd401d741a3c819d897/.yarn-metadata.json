@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/prepend-http/-/prepend-http-2.0.0.tgz#e92434bfa5ea8c19f41cdfd401d741a3c819d897",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/prepend-http/-/prepend-http-2.0.0.tgz",
+    "hash": "e92434bfa5ea8c19f41cdfd401d741a3c819d897",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e92434bfa5ea8c19f41cdfd401d741a3c819d897"
+}

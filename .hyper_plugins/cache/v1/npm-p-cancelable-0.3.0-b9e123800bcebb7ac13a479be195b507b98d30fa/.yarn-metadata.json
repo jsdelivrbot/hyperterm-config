@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/p-cancelable/-/p-cancelable-0.3.0.tgz#b9e123800bcebb7ac13a479be195b507b98d30fa",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/p-cancelable/-/p-cancelable-0.3.0.tgz",
+    "hash": "b9e123800bcebb7ac13a479be195b507b98d30fa",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b9e123800bcebb7ac13a479be195b507b98d30fa"
+}

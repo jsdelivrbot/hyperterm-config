@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/nugget/-/nugget-2.0.1.tgz#201095a487e1ad36081b3432fa3cada4f8d071b0",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/nugget/-/nugget-2.0.1.tgz",
+    "hash": "201095a487e1ad36081b3432fa3cada4f8d071b0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "201095a487e1ad36081b3432fa3cada4f8d071b0"
+}

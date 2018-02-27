@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-dark-scrollbar/-/hyper-dark-scrollbar-1.1.0.tgz#e2dc5d05f3035b03f77d8d3fe0e4cf98fc9026e6",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-dark-scrollbar/-/hyper-dark-scrollbar-1.1.0.tgz",
+    "hash": "e2dc5d05f3035b03f77d8d3fe0e4cf98fc9026e6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e2dc5d05f3035b03f77d8d3fe0e4cf98fc9026e6"
+}

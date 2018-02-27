@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/opencollective/-/opencollective-1.0.3.tgz#aee6372bc28144583690c3ca8daecfc120dd0ef1",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/opencollective/-/opencollective-1.0.3.tgz",
+    "hash": "aee6372bc28144583690c3ca8daecfc120dd0ef1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "aee6372bc28144583690c3ca8daecfc120dd0ef1"
+}

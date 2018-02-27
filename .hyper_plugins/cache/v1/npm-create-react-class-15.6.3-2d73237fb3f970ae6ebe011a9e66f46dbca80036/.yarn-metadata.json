@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/create-react-class/-/create-react-class-15.6.3.tgz#2d73237fb3f970ae6ebe011a9e66f46dbca80036",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/create-react-class/-/create-react-class-15.6.3.tgz",
+    "hash": "2d73237fb3f970ae6ebe011a9e66f46dbca80036",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2d73237fb3f970ae6ebe011a9e66f46dbca80036"
+}

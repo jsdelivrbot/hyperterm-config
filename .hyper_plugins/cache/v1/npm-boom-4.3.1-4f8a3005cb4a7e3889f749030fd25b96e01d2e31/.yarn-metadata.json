@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/boom/-/boom-4.3.1.tgz#4f8a3005cb4a7e3889f749030fd25b96e01d2e31",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/boom/-/boom-4.3.1.tgz",
+    "hash": "4f8a3005cb4a7e3889f749030fd25b96e01d2e31",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4f8a3005cb4a7e3889f749030fd25b96e01d2e31"
+}

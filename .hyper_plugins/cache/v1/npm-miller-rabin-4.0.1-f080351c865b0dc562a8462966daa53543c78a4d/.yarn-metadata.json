@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/miller-rabin/-/miller-rabin-4.0.1.tgz#f080351c865b0dc562a8462966daa53543c78a4d",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/miller-rabin/-/miller-rabin-4.0.1.tgz",
+    "hash": "f080351c865b0dc562a8462966daa53543c78a4d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f080351c865b0dc562a8462966daa53543c78a4d"
+}
